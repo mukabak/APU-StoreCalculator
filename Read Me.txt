@@ -1,0 +1,15 @@
+database server
+
+create new db: no
+database name: sql12189781
+Host name: sql12.freemysqlhosting.net
+port: 3306
+username: sql12189781
+password: VARW8vklX9
+
+**********************************
+
+login
+
+login: superuser
+password: 12345

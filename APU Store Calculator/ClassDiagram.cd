@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="APU_Store_Calculator.ClassChangePassword" Collapsed="true">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAACAAABAAgAAAAAAAAACAAAAAAAAAIBAAAAAAAAA=</HashCode>
+      <FileName>ClassChangePassword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APU_Store_Calculator.ClassCompanyDetails" Collapsed="true">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAABAAAABAAAAAABAAAAACAAAAAAgAAABAAABAAAAA=</HashCode>
+      <FileName>ClassCompanyDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APU_Store_Calculator.ClassConnection" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAgABAAAAAAAAAAAAAAQAAAAAhAAAABIAAA=</HashCode>
+      <FileName>ClassConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APU_Store_Calculator.ClassDB" Collapsed="true">
+    <Position X="4" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAsAghDBJKQAAAAwFGIIFwDDKaTBAADCQDAQYDWALAE=</HashCode>
+      <FileName>ClassDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APU_Store_Calculator.ClassItems" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEAIIAAAAAAABAYgABQEJAAAQgABIkgAABAQAAAAIEA=</HashCode>
+      <FileName>ClassItems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APU_Store_Calculator.ClassLogin" Collapsed="true">
+    <Position X="7.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAIAAAACAAkAACAAAAAAAAAAAAABAFAAAAAAA=</HashCode>
+      <FileName>ClassLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APU_Store_Calculator.ClassManageItems" Collapsed="true">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAgAIBAAAEAgAhBgBACBEAAFiAAABAAAAAAAAA=</HashCode>
+      <FileName>ClassManageItems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APU_Store_Calculator.ClassManageUsers" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAgAAAAAAAAAAAAgAACAAAgAAEAABAAAABAAAA=</HashCode>
+      <FileName>ClassManageUsers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APU_Store_Calculator.ClassMyProfile" Collapsed="true">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAEAAABAAAAAAAAAAAACACAAEAAAAABQAAAAAAAA=</HashCode>
+      <FileName>ClassMyProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APU_Store_Calculator.ClassNewItems" Collapsed="true">
+    <Position X="4" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAUAAQQAgAAAAAQAAAAQABAAEAACBAA=</HashCode>
+      <FileName>ClassNewItems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APU_Store_Calculator.ClassNewUsers" Collapsed="true">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQgEAAQCAAAAAAEEAIAAAACAAEAAAAABAAAAAAAAA=</HashCode>
+      <FileName>ClassNewUsers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APU_Store_Calculator.ClassPayment" Collapsed="true">
+    <Position X="5.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAIAAQAAAAAAAAAIQAIAAAAAAAAAAAABAAAAAAAEA=</HashCode>
+      <FileName>ClassPayment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APU_Store_Calculator.Form1" Collapsed="true">
+    <Position X="12.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QTpMBCmYE3UQICAEAzLDJACGIKEDAEhAAAsEEhRUmGk=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APU_Store_Calculator.Program" Collapsed="true">
+    <Position X="12.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APU_Store_Calculator.Properties.Resources" Collapsed="true">
+    <Position X="12.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEiACNAAOFSBNAAABCABEAIQAxCCEAiaDAJoAAAhAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APU_Store_Calculator.Properties.Settings" Collapsed="true">
+    <Position X="12.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAACAIAAACAABAgAgAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

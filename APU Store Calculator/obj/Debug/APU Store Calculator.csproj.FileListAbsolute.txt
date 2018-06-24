@@ -1,0 +1,20 @@
+c:\users\admin\documents\visual studio 2013\Projects\APU Store Calculator\APU Store Calculator\bin\Debug\APU Store Calculator.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\APU Store Calculator\APU Store Calculator\bin\Debug\APU Store Calculator.exe
+c:\users\admin\documents\visual studio 2013\Projects\APU Store Calculator\APU Store Calculator\bin\Debug\APU Store Calculator.pdb
+c:\users\admin\documents\visual studio 2013\Projects\APU Store Calculator\APU Store Calculator\obj\Debug\APU Store Calculator.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\APU Store Calculator\APU Store Calculator\obj\Debug\APU_Store_Calculator.FormMain.resources
+c:\users\admin\documents\visual studio 2013\Projects\APU Store Calculator\APU Store Calculator\obj\Debug\APU_Store_Calculator.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\APU Store Calculator\APU Store Calculator\obj\Debug\APU Store Calculator.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\APU Store Calculator\APU Store Calculator\obj\Debug\APU Store Calculator.exe
+c:\users\admin\documents\visual studio 2013\Projects\APU Store Calculator\APU Store Calculator\obj\Debug\APU Store Calculator.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\IOOP\APU Store Calculator\bin\Debug\APU Store Calculator.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\IOOP\APU Store Calculator\obj\Debug\APU Store Calculator.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\IOOP\APU Store Calculator\obj\Debug\APU Store Calculator.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\IOOP\APU Store Calculator\bin\Debug\APU Store Calculator.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\IOOP\APU Store Calculator\bin\Debug\APU Store Calculator.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\IOOP\APU Store Calculator\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\IOOP\APU Store Calculator\bin\Debug\MySql.Data.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\IOOP\APU Store Calculator\obj\Debug\APU Store Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\IOOP\APU Store Calculator\obj\Debug\APU_Store_Calculator.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\IOOP\APU Store Calculator\obj\Debug\APU_Store_Calculator.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\IOOP\APU Store Calculator\obj\Debug\APU Store Calculator.csproj.GenerateResource.Cache

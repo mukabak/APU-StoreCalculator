@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\APU Store Calculator\APU Store Calculator\bin\Release\APU Store Calculator.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\APU Store Calculator\APU Store Calculator\obj\Release\APU Store Calculator.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\APU Store Calculator\APU Store Calculator\obj\Release\APU Store Calculator.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\APU Store Calculator\APU Store Calculator\obj\Release\APU Store Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\APU Store Calculator\APU Store Calculator\obj\Release\APU_Store_Calculator.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\APU Store Calculator\APU Store Calculator\obj\Release\APU Store Calculator.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Projects\APU Store Calculator\APU Store Calculator\bin\Release\APU Store Calculator.exe.config
+C:\Users\Admin\Desktop\Projects\APU Store Calculator\APU Store Calculator\obj\Release\APU Store Calculator.exe
+C:\Users\Admin\Desktop\Projects\APU Store Calculator\APU Store Calculator\obj\Release\APU Store Calculator.pdb
+C:\Users\Admin\Desktop\Projects\APU Store Calculator\APU Store Calculator\obj\Release\APU Store Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Projects\APU Store Calculator\APU Store Calculator\obj\Release\APU_Store_Calculator.Properties.Resources.resources
+C:\Users\Admin\Desktop\Projects\APU Store Calculator\APU Store Calculator\obj\Release\APU Store Calculator.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Projects\APU Store Calculator\APU Store Calculator\bin\Release\APU Store Calculator.exe
+C:\Users\Admin\Desktop\Projects\APU Store Calculator\APU Store Calculator\bin\Release\APU Store Calculator.pdb
+C:\Users\Admin\Desktop\Projects\APU Store Calculator\APU Store Calculator\bin\Release\MySql.Data.dll
+C:\Users\Admin\Desktop\Projects\APU Store Calculator\APU Store Calculator\bin\Release\MySql.Data.xml
+C:\Users\Admin\Desktop\Projects\APU Store Calculator\APU Store Calculator\obj\Release\APU_Store_Calculator.Form1.resources
